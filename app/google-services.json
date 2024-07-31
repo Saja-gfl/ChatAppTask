@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865267700856",
+    "firebase_url": "https://chatapptask-73ed8-default-rtdb.firebaseio.com",
+    "project_id": "chatapptask-73ed8",
+    "storage_bucket": "chatapptask-73ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865267700856:android:edf54a0d6d0f68dea9898d",
+        "android_client_info": {
+          "package_name": "com.example.chatapptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-tj0smwtnfEK_hYs4T8S8PCbZc5EZr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
